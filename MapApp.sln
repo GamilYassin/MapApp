@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.29424.173
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapApp.Core", "MapApp.Core\MapApp.Core.csproj", "{02B929D5-7E10-4BBB-BD23-FABA1A99F022}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapApp.GUI", "MapApp.GUI\MapApp.GUI.csproj", "{7FD8EA91-6571-4493-B0AD-62EC760067C4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{02B929D5-7E10-4BBB-BD23-FABA1A99F022}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{02B929D5-7E10-4BBB-BD23-FABA1A99F022}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{02B929D5-7E10-4BBB-BD23-FABA1A99F022}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FD8EA91-6571-4493-B0AD-62EC760067C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FD8EA91-6571-4493-B0AD-62EC760067C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FD8EA91-6571-4493-B0AD-62EC760067C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FD8EA91-6571-4493-B0AD-62EC760067C4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
